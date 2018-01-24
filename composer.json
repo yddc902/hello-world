@@ -1,0 +1,12 @@
+{
+    "name": "yashdesai/hello-world",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yddc902",
+            "email": "yddc902@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
