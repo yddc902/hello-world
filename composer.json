@@ -1,5 +1,8 @@
 {
     "name": "yashdesai/hello-world",
+    "type": "project",
+    "description": "Php simple project",
+    "keywords": ["log","logging"],
     "license": "MIT",
     "authors": [
         {
